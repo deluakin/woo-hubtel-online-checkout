@@ -9,30 +9,21 @@ This plugin enables to add Hubtel payment option to your WooCommerce checkout, a
 To begin, you need to signup for a merchant account first. [Click here](https://hubtel.com)
 
 
-## Features
-* Add as a checkout payment option for woocommerce.
-* Generate payment button and add it to any post or page.
-* Filter and download payments report.
-* Be notified via email whenever payment is received on your site.
-* Trading in foreign currency? No problem. It automatically convert USD, GBP, EUR, NGN to GHS, before sending to Hubtel.
-
-
 ## Installation
+* [Click](https://github.com/deluakin/woo-hubtel-payment/dist/hubtel-online-checkout.zip) to download plugin
 * Login to your WordPress Admin area
 * Go to "Plugins > Add New" from the left hand menu
-* In the search box type "Hubtel Payment"
-* From the search result you will see "Hubtel Payment" click on "Install Now" to install the plugin
-* A popup window will ask you to confirm your wish to install the Plugin.
+* Upload downloaded plugin
 * Click "Proceed" to continue the installation. The resulting installation screen will list the installation as successful or note any problems during the install.
 * Click "Activate Plugin" to activate it.
 * Configure your "Hubtel Payment. See below for details.
 
 
 ## Configuration
-To configure the plugin, go to **Hubtel Payment > Settings** from the left hand menu.
+To configure the plugin, go to **Hubtel Payment > Settings**
 * Enable/Disable - Check the box to enable or disable Hubtel Payment for your woocommerce store.
-* Title - Allows you to determine what your customers will see this payment option as on the checkout page.
-* Description - controls the message that appears under the payment fields on the checkout page. Here you can list the types of cards you accept.
+* Title - Allows you to determine what your customers will see this payment option as, on the checkout page.
+* Description - controls the message that appears under the payment option, on the checkout page.
 * Client Id  - Enter your hubtel client id
 * Secret  - Enter your hubtel secret
 * Click on **Save Changes** for the changes you made to be effected.
