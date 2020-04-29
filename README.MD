@@ -12,7 +12,7 @@ To begin, you need to signup for a merchant account first. [Click here](https://
 ## Installation
 * [Click](https://github.com/deluakin/woo-hubtel-payment/raw/master/dist/woo-hubtel-payment.zip) to download plugin
 * Login to your WordPress Admin area
-* Go to "Plugins > Add New" from the left hand menu
+* Go to "Plugins > Add New"
 * Upload downloaded plugin
 * Click "Proceed" to continue the installation. The resulting installation screen will list the installation as successful or note any problems during the install.
 * Click "Activate Plugin" to activate it.
