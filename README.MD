@@ -5,7 +5,7 @@
 
 
 ## Description
-This plugin enables to add Hubtel payment option to your WooCommerce checkout, also to create payment buttons that can be added to any post or page. Hubtel supports both momo and bank card payment.
+This plugin enables you to add Hubtel payment option to your WooCommerce store, also to create payment buttons that can be added to any wordpress post or page. Hubtel supports both momo and bank card payment.
 To begin, you need to signup for a merchant account first. [Click here](https://hubtel.com)
 
 
