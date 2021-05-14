@@ -16,7 +16,7 @@ To begin, you need to [signup](https://hubtel.com) for a merchant account first.
 * Upload downloaded plugin
 * Click "Proceed" to continue the installation. The resulting installation screen will list the installation as successful or note any problems during the install.
 * Click "Activate Plugin" to activate it.
-* Configure your "Hubtel Payment. See below for details.
+* Configure plugin. See below for details.
 
 
 ## Configuration
